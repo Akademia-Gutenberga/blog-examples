@@ -1,0 +1,8 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "akademiagutenberga/counter",
+  "version": "1.0.0",
+  "title": "Counter",
+  "editorScript": "file:./index.js"
+}
