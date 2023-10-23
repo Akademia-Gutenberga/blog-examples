@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "tutorial/moj-pierwszy-blok",
+  "title": "Mój pierwszy blok!",
+  "attributes": {
+    "content": {
+      "type": "string",
+      "default": "Cześć"
+    }
+  },
+  "editorScript": "file:./block.js"
+}
